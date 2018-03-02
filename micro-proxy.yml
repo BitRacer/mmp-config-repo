@@ -1,4 +1,5 @@
-port: '80'
-prefix: '"mmp"'
-server: ''
-zuul: ''
+spring:
+  application:
+    port: 80
+zuul:
+  servlet-path: mmp
