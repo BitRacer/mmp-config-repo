@@ -1,2 +1,4 @@
 zuul:
   servlet-path: mmp
+server:
+  port: 8765
