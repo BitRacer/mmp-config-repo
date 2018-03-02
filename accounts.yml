@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: "jdbc:cassandra://127.0.0.1:9160/accounts"
+    
+    
