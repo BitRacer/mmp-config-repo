@@ -1,4 +1,4 @@
 zuul:
-  servlet-path: /data
+  prefix: /data
 server:
   port: 8765
