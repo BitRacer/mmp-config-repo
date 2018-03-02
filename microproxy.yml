@@ -1,5 +1,2 @@
-spring:
-  application:
-    port: 80
 zuul:
   servlet-path: mmp
